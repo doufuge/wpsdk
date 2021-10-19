@@ -1,0 +1,5 @@
+/.gradle/
+local.properties
+example/pro
+example/release
+/.idea
